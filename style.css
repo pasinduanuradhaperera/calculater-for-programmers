@@ -1,0 +1,17 @@
+.container{
+    width:400px;
+    height:300px;
+    border: #337579 solid 9px;
+        border-radius: 55px;
+    margin:auto;
+}
+#decimal,#binary,#octal,#hexa {
+    width:200px;
+}
+.label{
+    margin-left: 10px;
+}
+.button{
+    margin: 18px 26px 0px 0px;
+    text-align: end;
+}
